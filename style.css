@@ -1,0 +1,14 @@
+p {
+  color: gray;
+}
+.intro {
+  color: blue;
+}   
+#register {
+  color: white;
+  background-color: orange;
+  padding: 8px 16px;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: bold;
+}
